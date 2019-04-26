@@ -31,6 +31,9 @@ flutter:
   - assets/images/windy.jpg
 
   fonts:
-  - family: WeatherIcon
-    fonts:
-      - asset: assets/fonts/WeatherIcon.ttf
+    - family: WeatherIcon
+      fonts:
+        - asset: assets/fonts/WeatherIcon.ttf
+    - family: Raleway
+      fonts:
+        - asset: assets/fonts/Raleway-Regular.ttf
